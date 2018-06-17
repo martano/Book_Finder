@@ -1,0 +1,15 @@
+.root {
+     -fx-background-color: white;
+}
+
+#entertitle{
+    -fx-font-size: 13px;
+}
+
+#firstlabel {
+    -fx-font-size: 13px;
+}
+
+#secondlabel {
+    -fx-font-size: 13px;
+}
